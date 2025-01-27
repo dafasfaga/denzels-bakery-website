@@ -1,0 +1,85 @@
+body {
+  background-color: #CCCCFF;
+  font-family: sans-serif;
+  color: #a2bffe;
+  }
+
+/* Denzel wants Verdina font but sans-serif is the closest available */
+
+
+
+p {
+  
+  color: #494848;
+  font-size: 17px; 
+    
+}
+
+h1 {
+  font-size: 27px;
+  color: #46B47F;
+  font-family: cursive;
+}
+
+/* Denzel wanted the headings to be in a cursive font*/
+
+h2 {
+  font-size: 24px;
+  color:  #46B47F;
+  font-family: cursive;
+}
+
+h3 {
+  color: #46B47F;
+  font-family: cursive;
+}
+  
+ul {
+  color: #494848;
+  font-size: 19px;
+}
+
+ol {
+  color: #494848;
+  font-size: 16px;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+  border-color: #fffdd0;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 25px;
+}
+
+.title {
+  color: #494848;
+}
+
+.info {
+  color: #494848;
+  font-size: 19px;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  
+}
+
+.image-card {
+  padding-left: 15px;
+  box-sizing: 30px;
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  margin: 12px;
+  
+}
+
+
+
+
+/* cream border color, to match Denzel's needs*/
